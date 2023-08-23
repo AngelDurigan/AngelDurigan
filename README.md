@@ -6,4 +6,4 @@
    <img align="center" alt="Angel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align ="center" alt="Angel-Java" height="30" width="40"
    src="https://www.svgrepo.com/download/184143/java.svg">
-   < img align ="center" alt="Angel-JavaScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
+   < img align ="center" alt="Angel-JavaScript" height="30" width="40" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png">
