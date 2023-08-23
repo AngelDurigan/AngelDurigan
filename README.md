@@ -1,11 +1,13 @@
 👋🏻 Olá, estranho. Eu sou a Angelina Durigan
-- 🎓estudante de programação 
+- 🎓estudante de programação
+<div style="display:inline">
+ <img  alt="Angel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  alt="Angel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img alt="Angel-JavaScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
+  <img alt="Angel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Angel-Java" height="30" width="40" src="https://www.svgrepo.com/download/184143/java.svg">
+  </div>
 
- <img align="center" alt="Angel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Angel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-   <img alt="Angel-JavaScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-   <img alt="Angel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img alt="Angel-Java" height="30" width="40"
-   src="https://www.svgrepo.com/download/184143/java.svg">
+  
 
   
