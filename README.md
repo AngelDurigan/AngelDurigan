@@ -1,4 +1,4 @@
-👋🏻 Olá, stalker. Eu sou a Angelina Durigan
+👋🏻 Olá, estranho. Eu sou a Angelina Durigan
 - 🎓estudante de programação 
 
 
