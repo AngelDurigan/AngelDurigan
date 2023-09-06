@@ -6,6 +6,8 @@
   <img alt="Angel-JavaScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
   <img alt="Angel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Angel-Java" height="30" width="40" src="https://www.svgrepo.com/download/184143/java.svg">
+ <img alt="Angel-Sql"   height="30" width="40" src="![image](https://github.com/AngelDurigan/AngelDurigan/assets/143005728/588a5431-f7d4-4c63-9700-b91eee9b6201)">
+
   </div>
 
   
