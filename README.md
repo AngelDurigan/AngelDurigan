@@ -1,4 +1,4 @@
-👋🏻 Olá, estranho. Eu sou a Angelina Durigan
+Eu sou a Angelina Durigan
 - 🎓estudante de programação
 <div style="display:inline">
  <img  alt="Angel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
